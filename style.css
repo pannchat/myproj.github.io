@@ -23,7 +23,9 @@
 	}
 }
 @media all and (orientation:landscape){
-
+    #bt_login{
+    width :60%;
+  }
 	body{
 		background:  
 		radial-gradient(black 35%, transparent 1%),
