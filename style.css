@@ -2,9 +2,9 @@
 
 
 @media all and (orientation:portrait){
-  #bt_login{
-    width :60%;
-  }
+#bt_login{
+  width : 50%;
+}
 	body{
 	background:  
 	radial-gradient(black 35%, transparent 1%),
@@ -23,9 +23,7 @@
 	}
 }
 @media all and (orientation:landscape){
-    #bt_login{
-    width :30%;
-  }
+
 	body{
 		background:  
 		radial-gradient(black 35%, transparent 1%),
@@ -40,6 +38,29 @@
 	}
 }
 
+/* 다른것들 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 로고 파트 */
+/* 로고 파트 */
+/* 로고 파트 */
+/* 로고 파트 */
 
 .sm-link{
 
