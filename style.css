@@ -12,7 +12,7 @@ width:100%;
 }
 @media all and (orientation:portrait){
 .lg_element{
-  width : 40%;
+  width : 50%;
 }
 	body{
 	background:  
@@ -51,6 +51,10 @@ width:100%;
 
 /* 다른것들 */
 
+a:link { color: white; }
+a:visited { color: white; }
+a:hover { color: white; }
+a:active { color: white; }
 
 
 
