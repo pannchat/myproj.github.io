@@ -12,7 +12,7 @@ width:100%;
 }
 @media all and (orientation:portrait){
 .lg_element{
-  width : 50%;
+  width : 80%;
 }
 .form-control{
   height:60px;
